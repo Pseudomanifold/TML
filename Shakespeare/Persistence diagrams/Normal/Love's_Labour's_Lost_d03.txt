@@ -1,0 +1,5 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Love's_Labour's_Lost.net
+# d                : 3
+0.247042	0.430974
+0.247042	0.342027
+

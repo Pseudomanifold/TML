@@ -1,0 +1,4 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Hamlet.net
+# d                : 1
+0.893062	0.90856
+

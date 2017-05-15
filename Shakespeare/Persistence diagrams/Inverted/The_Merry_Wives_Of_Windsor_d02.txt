@@ -1,0 +1,4 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/The_Merry_Wives_Of_Windsor.net
+# d                : 2
+0.80978	0.814047
+

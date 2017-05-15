@@ -1,0 +1,5 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Titus_Andronicus.net
+# d                : 1
+0.745167	0.817696
+0.761235	0.802841
+

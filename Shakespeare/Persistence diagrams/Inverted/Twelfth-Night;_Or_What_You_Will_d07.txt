@@ -1,0 +1,3 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Twelfth-Night;_Or_What_You_Will.net
+# d                : 7
+

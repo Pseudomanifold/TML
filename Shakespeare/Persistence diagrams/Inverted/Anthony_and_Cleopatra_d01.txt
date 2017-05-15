@@ -1,0 +1,5 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Anthony_and_Cleopatra.net
+# d                : 1
+0.734775	0.794516
+0.780505	0.794516
+

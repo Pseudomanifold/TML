@@ -1,0 +1,3 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/The_Comedy_Of_Errors.net
+# d                : 4
+

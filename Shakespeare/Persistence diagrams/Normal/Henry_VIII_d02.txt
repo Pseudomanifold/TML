@@ -1,0 +1,8 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Henry_VIII.net
+# d                : 2
+0.14571	0.171283
+0.160243	0.171283
+0.230569	0.239832
+0.265847	0.371841
+0.338683	0.344569
+

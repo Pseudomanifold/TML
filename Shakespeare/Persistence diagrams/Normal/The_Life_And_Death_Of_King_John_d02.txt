@@ -1,0 +1,5 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/The_Life_And_Death_Of_King_John.net
+# d                : 2
+0.237864	0.259069
+0.241287	0.381387
+

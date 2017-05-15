@@ -1,0 +1,5 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Cymbeline.net
+# d                : 2
+0.0622133	0.0684089
+0.0650989	0.0651719
+

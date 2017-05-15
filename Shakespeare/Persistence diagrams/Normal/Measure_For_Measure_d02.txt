@@ -1,0 +1,6 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Measure_For_Measure.net
+# d                : 2
+0.414567	0.49842
+0.467257	0.49842
+0.516287	0.517785
+

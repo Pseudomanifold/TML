@@ -1,0 +1,7 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Richard_III.net
+# d                : 1
+0.762342	0.85197
+0.84159	0.927698
+0.879266	0.929212
+0.919351	0.929212
+

@@ -1,0 +1,4 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Julius_Caesar.net
+# d                : 1
+0.844377	0.859941
+

@@ -1,0 +1,3 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Much_Ado_About_Nothing.net
+# d                : 6
+

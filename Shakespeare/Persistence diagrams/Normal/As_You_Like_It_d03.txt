@@ -1,0 +1,3 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/As_You_Like_It.net
+# d                : 3
+

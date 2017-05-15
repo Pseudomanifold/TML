@@ -1,0 +1,4 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Henry_V.net
+# d                : 2
+0.427659	0.60374
+

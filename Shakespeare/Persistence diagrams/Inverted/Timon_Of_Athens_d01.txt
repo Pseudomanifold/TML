@@ -1,0 +1,9 @@
+# Original filename: /home/bastian/Research/Papers/Vis2017_Networks/Data/Literature/Shakespeare/Graphs/Timon_Of_Athens.net
+# d                : 1
+0.792285	0.857496
+0.823292	0.880612
+0.902288	0.946915
+0.906185	0.9106
+0.945222	0.956283
+0.951884	0.960692
+
