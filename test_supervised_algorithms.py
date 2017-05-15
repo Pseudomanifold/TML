@@ -5,6 +5,8 @@ import random
 import sys
 
 from sklearn import svm
+from sklearn import model_selection
+
 from sklearn.metrics import accuracy_score
 
 fileNameKernel = sys.argv[1]
@@ -15,31 +17,29 @@ C = numpy.genfromtxt(fileNameLabels, dtype='str')
 
 svm = svm.SVC(kernel='precomputed')
 
-#
-# LOOCV: Leave-one-out cross validation first because it is
-# easiest to implement.
-#
-
 n = K.shape[0]
 r = list()
 
-for i in range(0,n):
-  K = numpy.loadtxt(fileNameKernel)
-  C = numpy.genfromtxt(fileNameLabels, dtype='str')
+loo    = model_selection.LeaveOneOut()
+scores = list()
 
-  L = numpy.delete(K[i], i)
-  L = L.reshape(1,-1)
-  K = numpy.delete(K, i, axis=0)
-  K = numpy.delete(K, i, axis=1)
+for algorithm in [svm]:
+  for train, test in loo.split(K):
+    kTrain = K[train][:,train]
+    cTrain = C[train]
 
-  D = C[i]
-  D = D.reshape(-1,1)
-  C = numpy.delete(C, i)
+    # For the test kernel matrix, the values between *all* training
+    # vectors and all test vectors must be provided.
+    kTest  = K[train, test]
+    if len(kTest.shape) < 2:
+      kTest = kTest.reshape(1,-1)
+      cTest = C[test].reshape(-1,1)
+    else:
+      cTest = C[test]
 
-  svm.fit(K, C)
+    algorithm.fit(kTrain, cTrain)
+    prediction = algorithm.predict(kTest)
+    score      = accuracy_score(cTest, prediction)
+    scores.append(score)
 
-  E = svm.predict(L)
-
-  r.append(accuracy_score(D, E))
-
-print(sum(r)/len(r))
+print("Average accuracy:", sum(scores)/len(scores))
