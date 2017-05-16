@@ -10,7 +10,8 @@ learning. At present, the following things are here:
 - Basic classifier code
 
 You need Python and `scikit-learn` to run the experiments in this
-repository. In order to reproduce the results of this blog post, you
+repository. In order to reproduce the results of [this blog
+post](http://bastian.rieck.ru/blog/posts/2017/shakespeare_topology_ml),
 it should be sufficient to call
 
     ./run_comparison.sh
