@@ -1,0 +1,7 @@
+# Persistence diagram <GML/1957.gml>
+#
+# Dimension   : 1
+# Entries     : 2
+# Betti number: 2
+0.692308	inf
+0.846154	inf

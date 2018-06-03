@@ -1,0 +1,20 @@
+# Persistence diagram <GML/1462.gml>
+#
+# Dimension   : 1
+# Entries     : 15
+# Betti number: 15
+0.921053	inf
+0.953947	inf
+0.960526	inf
+0.967105	inf
+0.967105	inf
+0.967105	inf
+0.973684	inf
+0.973684	inf
+0.980263	inf
+0.980263	inf
+0.980263	inf
+0.980263	inf
+0.986842	inf
+0.986842	inf
+0.986842	inf

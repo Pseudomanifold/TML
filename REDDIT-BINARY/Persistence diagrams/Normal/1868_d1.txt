@@ -1,0 +1,5 @@
+# Persistence diagram <GML/1868.gml>
+#
+# Dimension   : 1
+# Entries     : 0
+# Betti number: 0

@@ -1,0 +1,13 @@
+# Persistence diagram <GML/0940.gml>
+#
+# Dimension   : 1
+# Entries     : 8
+# Betti number: 5
+0.266667	0.6
+0.266667	inf
+0.266667	inf
+0.266667	0.6
+0.266667	inf
+0.266667	0.533333
+0.266667	inf
+0.266667	inf

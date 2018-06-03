@@ -1,0 +1,9 @@
+# Persistence diagram <GML/1185.gml>
+#
+# Dimension   : 1
+# Entries     : 4
+# Betti number: 4
+0.964706	inf
+0.976471	inf
+0.982353	inf
+0.982353	inf

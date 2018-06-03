@@ -1,0 +1,42 @@
+# Persistence diagram <GML/1027.gml>
+#
+# Dimension   : 1
+# Entries     : 37
+# Betti number: 37
+0.981982	inf
+0.981982	inf
+0.98999	inf
+0.990991	inf
+0.990991	inf
+0.990991	inf
+0.992993	inf
+0.993994	inf
+0.993994	inf
+0.994995	inf
+0.994995	inf
+0.995996	inf
+0.995996	inf
+0.995996	inf
+0.995996	inf
+0.995996	inf
+0.995996	inf
+0.995996	inf
+0.995996	inf
+0.995996	inf
+0.995996	inf
+0.996997	inf
+0.996997	inf
+0.996997	inf
+0.996997	inf
+0.996997	inf
+0.996997	inf
+0.996997	inf
+0.996997	inf
+0.996997	inf
+0.997998	inf
+0.997998	inf
+0.997998	inf
+0.997998	inf
+0.997998	inf
+0.997998	inf
+0.997998	inf

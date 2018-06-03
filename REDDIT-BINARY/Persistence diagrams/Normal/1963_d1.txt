@@ -1,0 +1,32 @@
+# Persistence diagram <GML/1963.gml>
+#
+# Dimension   : 1
+# Entries     : 27
+# Betti number: 27
+0.12	inf
+0.18	inf
+0.24	inf
+0.24	inf
+0.24	inf
+0.34	inf
+0.34	inf
+0.34	inf
+0.34	inf
+0.34	inf
+0.34	inf
+0.34	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf

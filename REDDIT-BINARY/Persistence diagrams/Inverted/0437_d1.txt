@@ -1,0 +1,50 @@
+# Persistence diagram <GML/0437.gml>
+#
+# Dimension   : 1
+# Entries     : 45
+# Betti number: 45
+0.722222	inf
+0.722222	inf
+0.722222	inf
+0.722222	inf
+0.75	inf
+0.75	inf
+0.75	inf
+0.75	inf
+0.75	inf
+0.75	inf
+0.777778	inf
+0.805556	inf
+0.805556	inf
+0.833333	inf
+0.833333	inf
+0.833333	inf
+0.833333	inf
+0.833333	inf
+0.833333	inf
+0.861111	inf
+0.861111	inf
+0.861111	inf
+0.861111	inf
+0.888889	inf
+0.888889	inf
+0.888889	inf
+0.888889	inf
+0.888889	inf
+0.888889	inf
+0.888889	inf
+0.916667	inf
+0.916667	inf
+0.916667	inf
+0.916667	inf
+0.916667	inf
+0.916667	inf
+0.916667	inf
+0.916667	inf
+0.916667	inf
+0.916667	inf
+0.944444	inf
+0.944444	inf
+0.944444	inf
+0.944444	inf
+0.944444	inf

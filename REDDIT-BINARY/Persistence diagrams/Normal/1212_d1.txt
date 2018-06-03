@@ -1,0 +1,7 @@
+# Persistence diagram <GML/1212.gml>
+#
+# Dimension   : 1
+# Entries     : 2
+# Betti number: 2
+0.047619	inf
+0.552381	inf

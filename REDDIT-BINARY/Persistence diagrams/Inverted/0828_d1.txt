@@ -1,0 +1,28 @@
+# Persistence diagram <GML/0828.gml>
+#
+# Dimension   : 1
+# Entries     : 23
+# Betti number: 23
+0.761194	inf
+0.761194	inf
+0.761194	inf
+0.761194	inf
+0.865672	inf
+0.865672	inf
+0.865672	inf
+0.865672	inf
+0.880597	inf
+0.895522	inf
+0.910448	inf
+0.910448	inf
+0.910448	inf
+0.940299	inf
+0.940299	inf
+0.940299	inf
+0.940299	inf
+0.955224	inf
+0.970149	inf
+0.970149	inf
+0.970149	inf
+0.970149	inf
+0.970149	inf

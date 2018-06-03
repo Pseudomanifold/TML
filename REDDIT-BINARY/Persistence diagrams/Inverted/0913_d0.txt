@@ -1,0 +1,8 @@
+# Persistence diagram <GML/0913.gml>
+#
+# Dimension   : 0
+# Entries     : 1
+# Betti number: 1
+0	inf
+
+

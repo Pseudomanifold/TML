@@ -1,0 +1,22 @@
+# Persistence diagram <GML/1663.gml>
+#
+# Dimension   : 1
+# Entries     : 17
+# Betti number: 17
+0.782609	inf
+0.782609	inf
+0.782609	inf
+0.782609	inf
+0.826087	inf
+0.869565	inf
+0.869565	inf
+0.869565	inf
+0.869565	inf
+0.869565	inf
+0.869565	inf
+0.869565	inf
+0.869565	inf
+0.913043	inf
+0.913043	inf
+0.913043	inf
+0.913043	inf

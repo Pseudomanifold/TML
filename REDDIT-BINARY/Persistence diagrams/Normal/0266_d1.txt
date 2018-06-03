@@ -1,0 +1,66 @@
+# Persistence diagram <GML/0266.gml>
+#
+# Dimension   : 1
+# Entries     : 61
+# Betti number: 61
+0.0209059	inf
+0.0209059	inf
+0.0209059	inf
+0.0209059	inf
+0.0209059	inf
+0.0209059	inf
+0.0278746	inf
+0.0278746	inf
+0.0278746	inf
+0.0278746	inf
+0.0313589	inf
+0.0313589	inf
+0.0313589	inf
+0.0313589	inf
+0.0418118	inf
+0.108014	inf
+0.108014	inf
+0.108014	inf
+0.108014	inf
+0.108014	inf
+0.111498	inf
+0.111498	inf
+0.111498	inf
+0.111498	inf
+0.111498	inf
+0.111498	inf
+0.111498	inf
+0.111498	inf
+0.111498	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf

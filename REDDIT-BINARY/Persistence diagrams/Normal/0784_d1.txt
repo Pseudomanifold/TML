@@ -1,0 +1,52 @@
+# Persistence diagram <GML/0784.gml>
+#
+# Dimension   : 1
+# Entries     : 47
+# Betti number: 47
+0.0268817	inf
+0.0376344	inf
+0.0430108	inf
+0.0430108	inf
+0.0483871	inf
+0.0537634	inf
+0.0537634	inf
+0.0537634	inf
+0.0537634	inf
+0.0537634	inf
+0.0537634	inf
+0.0645161	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf

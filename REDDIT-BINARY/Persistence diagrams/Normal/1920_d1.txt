@@ -1,0 +1,20 @@
+# Persistence diagram <GML/1920.gml>
+#
+# Dimension   : 1
+# Entries     : 15
+# Betti number: 15
+0.170213	inf
+0.234043	inf
+0.234043	inf
+0.234043	inf
+0.234043	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf

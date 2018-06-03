@@ -1,0 +1,8 @@
+# Persistence diagram <GML/1770.gml>
+#
+# Dimension   : 1
+# Entries     : 3
+# Betti number: 3
+0.137931	inf
+0.137931	inf
+1	inf

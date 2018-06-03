@@ -1,0 +1,33 @@
+# Persistence diagram <GML/1945.gml>
+#
+# Dimension   : 1
+# Entries     : 28
+# Betti number: 28
+0.193548	inf
+0.193548	inf
+0.258065	inf
+0.258065	inf
+0.258065	inf
+0.290323	inf
+0.290323	inf
+0.290323	inf
+0.354839	inf
+0.354839	inf
+0.354839	inf
+0.354839	inf
+0.354839	inf
+0.419355	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf

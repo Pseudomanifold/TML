@@ -1,0 +1,8 @@
+# Persistence diagram <GML/1393.gml>
+#
+# Dimension   : 0
+# Entries     : 3
+# Betti number: 1
+0	inf
+0	0.0952381
+0	0.0952381

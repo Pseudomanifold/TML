@@ -1,0 +1,21 @@
+# Persistence diagram <GML/1154.gml>
+#
+# Dimension   : 1
+# Entries     : 16
+# Betti number: 16
+0.994163	inf
+0.996109	inf
+0.996109	inf
+0.996757	inf
+0.996757	inf
+0.997406	inf
+0.997406	inf
+0.998054	inf
+0.998054	inf
+0.998054	inf
+0.998054	inf
+0.998054	inf
+0.998703	inf
+0.998703	inf
+0.998703	inf
+0.998703	inf

@@ -1,0 +1,9 @@
+# Persistence diagram <GML/1982.gml>
+#
+# Dimension   : 1
+# Entries     : 4
+# Betti number: 4
+0.903226	inf
+0.935484	inf
+0.935484	inf
+0.935484	inf

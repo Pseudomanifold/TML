@@ -1,0 +1,11 @@
+# Persistence diagram <GML/1530.gml>
+#
+# Dimension   : 1
+# Entries     : 6
+# Betti number: 6
+0.913043	inf
+0.913043	inf
+0.913043	inf
+0.913043	inf
+0.913043	inf
+0.913043	inf

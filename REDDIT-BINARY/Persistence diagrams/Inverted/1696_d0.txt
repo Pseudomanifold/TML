@@ -1,0 +1,6 @@
+# Persistence diagram <GML/1696.gml>
+#
+# Dimension   : 0
+# Entries     : 1
+# Betti number: 1
+0	inf

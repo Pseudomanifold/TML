@@ -1,0 +1,12 @@
+# Persistence diagram <GML/1314.gml>
+#
+# Dimension   : 0
+# Entries     : 5
+# Betti number: 1
+0	inf
+0	0.230769
+0	0.230769
+0	0.230769
+0	0.884615
+
+

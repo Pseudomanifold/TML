@@ -1,0 +1,10 @@
+# Persistence diagram <GML/1941.gml>
+#
+# Dimension   : 1
+# Entries     : 5
+# Betti number: 5
+0.88	inf
+0.88	inf
+0.88	inf
+0.92	inf
+0.92	inf

@@ -1,0 +1,14 @@
+# Persistence diagram <GML/1419.gml>
+#
+# Dimension   : 1
+# Entries     : 9
+# Betti number: 9
+0.97549	inf
+0.97549	inf
+0.985294	inf
+0.985294	inf
+0.985294	inf
+0.990196	inf
+0.990196	inf
+0.990196	inf
+0.990196	inf

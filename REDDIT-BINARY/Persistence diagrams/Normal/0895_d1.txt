@@ -1,0 +1,60 @@
+# Persistence diagram <GML/0895.gml>
+#
+# Dimension   : 1
+# Entries     : 55
+# Betti number: 55
+0.0752688	inf
+0.0967742	inf
+0.0967742	inf
+0.0967742	inf
+0.0967742	inf
+0.0967742	inf
+0.0967742	inf
+0.11828	inf
+0.11828	inf
+0.11828	inf
+0.11828	inf
+0.11828	inf
+0.129032	inf
+0.139785	inf
+0.139785	inf
+0.172043	inf
+0.172043	inf
+0.172043	inf
+0.172043	inf
+0.172043	inf
+0.204301	inf
+0.215054	inf
+0.215054	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf

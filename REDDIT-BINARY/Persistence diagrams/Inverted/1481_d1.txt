@@ -1,0 +1,29 @@
+# Persistence diagram <GML/1481.gml>
+#
+# Dimension   : 1
+# Entries     : 24
+# Betti number: 24
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf
+0.1875	inf

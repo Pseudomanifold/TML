@@ -1,0 +1,13 @@
+# Persistence diagram <GML/1440.gml>
+#
+# Dimension   : 0
+# Entries     : 8
+# Betti number: 1
+0	inf
+0	0.894737
+0	0.122807
+0	0.947368
+0	0.122807
+0	0.947368
+0	0.122807
+0	0.122807

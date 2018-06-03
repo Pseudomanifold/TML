@@ -1,0 +1,30 @@
+# Persistence diagram <GML/1976.gml>
+#
+# Dimension   : 1
+# Entries     : 25
+# Betti number: 25
+0.178571	inf
+0.25	inf
+0.285714	inf
+0.321429	inf
+0.321429	inf
+0.321429	inf
+0.357143	inf
+0.357143	inf
+0.357143	inf
+0.464286	inf
+0.464286	inf
+0.464286	inf
+0.464286	inf
+0.464286	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf

@@ -1,0 +1,13 @@
+# Persistence diagram <GML/1880.gml>
+#
+# Dimension   : 1
+# Entries     : 8
+# Betti number: 8
+0.833333	inf
+0.888889	inf
+0.888889	inf
+0.888889	inf
+0.888889	inf
+0.916667	inf
+0.916667	inf
+0.944444	inf

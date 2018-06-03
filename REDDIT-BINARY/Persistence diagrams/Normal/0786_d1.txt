@@ -1,0 +1,35 @@
+# Persistence diagram <GML/0786.gml>
+#
+# Dimension   : 1
+# Entries     : 30
+# Betti number: 29
+0.0159574	1
+0.0824468	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
+1	inf
